@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+body {
+    font: 105% Courier New;
+    margin: 60px;
+    line-height: 27px;
+   
+}
+
+h1{
+	color: white;
+	font: 400% helvetica neue;
+	position: absolute;
+	top:240px;
+	right: 160px;
+    bottom:0;
+    margin: auto;
+	text-shadow: -2px 0 #fc8824, 0 1px #fc8824, 2px 0 #fc8824, 0 -2px #fc8824, 4px 4px #fc8824;
+	
+}
+
+#top{
+	top:0;
+}
+#bottom{
+	bottom:0;
+}
+.blackBar{
+   position: absolute;
+   
+   left:0;
+   width:100%;
+   height:60px;
+   background-color:black;
+}
+
+.g-signin2{
+	
+	position: absolute;
+	
+	right: 350px;
+	top:350px;
+	bottom:0;
+	
+}
+
+#image{
+	position:absolute;
+	width: 25%;
+	height: 50%;
+	top:0;
+	left: 160px;
+    bottom:0;
+    margin:auto;
+    min-width: 200 px;
+    min-height: 200 px;
+}
